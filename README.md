@@ -27,4 +27,4 @@
 
 ### Связь со мной
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-F5F5F5?style=for-the-badge&logo=TELEGRAM)](https://telegram.com/imfrontdev "Telegram")
-[![HeadHunter](https://img.shields.io/badge/-HEADHUNTER-D20A11?style=for-the-badge&logo=HEADHUNTER)](https://vk.cc/clGBbp "HEADHUNTER")
+[![HeadHunter](https://img.shields.io/badge/-HEADHUNTER-D20A11?style=for-the-badge&logo=HEADHUNTER)](https://vk.cc/clGCgt "HEADHUNTER")
