@@ -4,10 +4,10 @@
 Люблю решать сложные задачки и развиваться по стэку технологий.
 
 Один из последних публичных проектов - [🔗typper](https://github.com/danil-rezbaev/typper--frontend "typper")
+
 Typper - это сервис микроблогов в котором можно делиться умными статьями и милыми котиками, с возможностью авторизации и комментированием постов
 
-В текущее время разрабатываю конструктор интернет-магазинов на стэке MERN (MongoDB, Express.js, React, Node.js).
-Бэкенд пишется, но готова фронтенд часть проекта, которую можно посмотреть [🔗здесь](https://github.com/danil-rezbaev/storegram "здесь")
+В текущее время разрабатываю конструктор интернет-магазинов - [🔗Storegram](https://github.com/danil-rezbaev/storegram "Storegram").
 
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danil-rezbaev&show_icons=true&hide=stars,issues&theme=white)
@@ -20,6 +20,7 @@ Typper - это сервис микроблогов в котором можно
 ![Typescript](https://img.shields.io/badge/-TYPESCRIPT-F5F5F5?style=for-the-badge&logo=TYPESCRIPT)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-F5F5F5?style=for-the-badge&logo=NODE.JS)
 ![Express.js](https://img.shields.io/badge/-EXPRESS.JS-F5F5F5?style=for-the-badge&logo=EXPRESS.JS)
+![MongoDB](https://img.shields.io/badge/-MONGODB-F5F5F5?style=for-the-badge&logo=MONGODB)
 ![JEST](https://img.shields.io/badge/-JEST-F5F5F5?style=for-the-badge&logo=JEST&logoColor=blue)
 ![REACT](https://img.shields.io/badge/-REACT-F5F5F5?style=for-the-badge&logo=REACT)
 ![REDUX](https://img.shields.io/badge/-REDUX-F5F5F5?style=for-the-badge&logo=REDUX&logoColor=blue)
